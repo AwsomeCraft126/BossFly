@@ -1,0 +1,6 @@
+name: BossFly
+main: BossFly\Main
+api: [3.0.0-ALPHA12]
+version: 0.1
+description: A fly plugin
+author: AwsomeCraft126
